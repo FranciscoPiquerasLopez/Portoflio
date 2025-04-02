@@ -1,2 +1,2 @@
 # *Visítalo*:
-- [Mi portfolio]([https://portfolio-francisco-piqueras-lopez.netlify.app/])
+- [Mi portfolio](https://portfolio-francisco-piqueras-lopez.netlify.app/)
