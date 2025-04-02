@@ -10,9 +10,9 @@ const tecnologiasDiv = document.getElementById('tecnologias');
 
 window.addEventListener('scroll', function () {
     if (window.scrollY > 0) {
-        document.getElementById('backgroundHeader').classList.add('bg-white/60', 'backdrop-blur-3xl', 'py-2', 'px-5');
+        document.getElementById('backgroundHeader').classList.add('bg-[#1f2937e6]', 'backdrop-blur-3xl', 'py-2', 'px-5');
     } else {
-        document.getElementById('backgroundHeader').classList.remove('bg-white/60', 'backdrop-blur-3xl', 'py-2', 'px-5');
+        document.getElementById('backgroundHeader').classList.remove('bg-[#1f2937e6]', 'backdrop-blur-3xl', 'py-2', 'px-5');
     }
 
     if (isElementInViewport(experienciaDiv)) {
